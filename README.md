@@ -2,7 +2,7 @@
 
 <a href="mailto:kontakt@jirkapelikan.cz"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-mail.svg"><img src="assets/dark/btn-mail.svg" alt="Napsat mi"></picture></a> <a href="https://jirkapelikan.cz"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-web.svg"><img src="assets/dark/btn-web.svg" alt="jirkapelikan.cz"></picture></a> <a href="https://www.linkedin.com/in/ji%C5%99%C3%AD-pelik%C3%A1n-4655b0336/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-linkedin.svg"><img src="assets/dark/btn-linkedin.svg" alt="LinkedIn"></picture></a> <a href="https://jirkapelikan.cz/en/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-en.svg"><img src="assets/dark/btn-en.svg" alt="English"></picture></a>
 
-Nejvíc mě baví projekty, kde dělám všechno. Navrhnu, jak to bude vypadat, napíšu kód, nasadím to na server a pak sleduju, co lidi v praxi zdržuje. Bakalářku jsem obhájil na FIM UHK prací v Rustu o analýze síťového provozu a teď tam dělám magistra. Pracuju česky i anglicky, v Královéhradeckém kraji nebo na dálku.
+Nejvíc mě baví projekty, kde dělám všechno. Navrhnu, jak to bude vypadat, napíšu kód, nasadím to na server a pak sleduju, co lidi v praxi zdržuje. Jako vývojář píšu nejčastěji v TypeScriptu, Rustu, Pythonu a Kotlinu. Bakalářku jsem obhájil na FIM UHK prací v Rustu o analýze síťového provozu a teď tam dělám magistra. Pracuju česky i anglicky, v Královéhradeckém kraji nebo na dálku.
 
 ## Jazyky
 

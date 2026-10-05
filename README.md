@@ -24,7 +24,7 @@ Nejvíc mě baví projekty, kde dělám všechno. Navrhnu, jak to bude vypadat, 
 
 ## Projekty
 
-<details open>
+<details>
 <summary><code>01</code> <b>zskom.cz</b> · Web a redakční systém · 2026</summary>
 <br>
 
@@ -157,7 +157,7 @@ Navrhl jsem logo, celou vizuální identitu a frontend webu platformy pro nevýr
 
 ## Aktivita
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/light/aktivita-m.svg"><source media="(max-width: 600px)" srcset="assets/dark/aktivita-m.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/aktivita.svg"><img src="assets/dark/aktivita.svg" alt="Aktivita na GitHubu: 1273 příspěvků za poslední rok" width="100%"></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/light/aktivita-m.svg"><source media="(max-width: 600px)" srcset="assets/dark/aktivita-m.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/aktivita.svg"><img src="assets/dark/aktivita.svg" alt="Aktivita na GitHubu: 1274 příspěvků za poslední rok" width="100%"></picture>
 
 ## Kontakt
 
